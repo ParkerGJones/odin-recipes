@@ -1,1 +1,2 @@
 # odin-recipes
+This project is a simple website design made only using HTML code. The website contains links and info about basic food recipes. After completing this project I will have demonstrated my skills with basic HTML coding creating things like links, images, bolded characters, etc.
